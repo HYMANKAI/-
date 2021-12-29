@@ -17,8 +17,8 @@ On an arduino UNO/arduino NANO:       A4(SDA), A5(SCL)
 On an arduino MEGA 2560: 20(SDA), 21(SCL)  
 
 HY-SEF5  
-SRF_IN   2
-SRF_OUT  3
+SRF_IN   2  
+SRF_OUT  3  
 
 Digital PIN  
 LED_R 5  
